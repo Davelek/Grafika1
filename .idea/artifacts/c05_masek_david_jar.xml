@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="c05_masek_david:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/c05_masek_david_jar</output-path>
+    <root id="archive" name="c05_masek_david.jar">
+      <element id="module-output" name="c05_masek_david" />
+    </root>
+  </artifact>
+</component>
